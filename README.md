@@ -1,2 +1,2 @@
-# Git-e-github
- Primeiro ropositorio versionado
+# Git-and-Github
+ Primeiro ropositorio versionado VCS 
