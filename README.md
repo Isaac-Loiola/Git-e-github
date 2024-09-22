@@ -3,4 +3,4 @@
 
  Essa linha eu adicionei pelo site.. GITHUB
 
- Curso de **Git e GItHub** no Youtube
+ Curso de **Git e GitHub** no Youtube
